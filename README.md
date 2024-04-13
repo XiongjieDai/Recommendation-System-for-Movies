@@ -9,4 +9,4 @@ A movie recommendation system according to genre or user ratings using IBCF. Ite
 
 [recommenderlab: An R Framework for Developing and Testing Recommendation Algorithms](https://cran.r-project.org/web/packages/recommenderlab/vignettes/recommenderlab.pdf)
 
-[Item-item_collaborative_filtering](https://en.wikipedia.org/wiki/Item-item_collaborative_filtering)
+[Item-item collaborative filtering](https://en.wikipedia.org/wiki/Item-item_collaborative_filtering)
