@@ -1,0 +1,15 @@
+# README
+
+The following packages will need to be installed:
+
+```
+dplyr
+recommenderlab
+shiny
+shinydashboard
+data.table
+ShinyRatingInput
+shinyjs
+```
+
+The run it, simply go to the `server.R` file and click the "Run App" button from RStudio.

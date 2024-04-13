@@ -1,0 +1,10 @@
+name: movierecommender
+title:
+username: xiongjiedai
+account: xiongjiedai
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11746639
+bundleId: 8488039
+url: https://xiongjiedai.shinyapps.io/movierecommender/
+version: 1
